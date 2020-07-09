@@ -3,6 +3,7 @@ notas_dict = dict()  # {}
 
 print(arch.readline())
 print(arch.readline())
+print("hola maricong")
 
 """
 botar = arch.readline()# botamos la primera linea
