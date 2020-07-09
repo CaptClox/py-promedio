@@ -1,0 +1,5 @@
+# este archivo fue creado en el 2020
+mario,30,50,60 
+juan,50,55,57  
+catalina,40,60,50
+josefa,67,50,70  
